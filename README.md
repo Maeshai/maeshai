@@ -1,4 +1,4 @@
-![logo](https://github.com/Maeshai/maeshai/blob/main/Banner.jpg.jpg)
+![logo](https://github.com/Maeshai/maeshai/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm El Ghandori Chaimaa</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 
