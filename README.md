@@ -1,3 +1,4 @@
+![logo](https://github.com/ChaimaaElGhandori/ChaimaaElGhandori/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm El Ghandori Chaimaa</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme</h3>
 
