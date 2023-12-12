@@ -9,6 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/ghandoriel" target="blank"><img src="https://img.shields.io/twitter/follow/ghandoriel?logo=twitter&style=for-the-badge" alt="ghandoriel" /></a> </p>
 
+- 🔭 I’m currently working on **Front-end web projects**
+
+- 🌱 I’m currently learning **Angular, Bootstrap,JQuery**
+
+- 📫 How to reach me **elghandori.chaimaa@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
